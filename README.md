@@ -1,7 +1,7 @@
 # Rolling-The-Dice
 This is a demo game implemented using HTML, CSS, JavaScript. I made this application more to learn the complex functionalities for JavaScript. #project3
 
-Rules:
+## Rules:
 Player 1 will start the game, he must select "Roll dice" to collect the score to reach 50 total score. The score will reset when the dice has the value 1. And it will be Player 2's turn to continue rolling the dice. If Player 2 does not want to roll the dice, select the "Hold" button to play Player 1. When the score reaches 50 points, the message "Congratulations!" will be displayed.
 
 ![image](https://github.com/Asavei16/Rolling-The-Dice/assets/57408487/a9817c28-c5c7-47d6-8229-20f2f58d268a)
@@ -12,5 +12,6 @@ Player 1 will start the game, he must select "Roll dice" to collect the score to
 
 ![image](https://github.com/Asavei16/Rolling-The-Dice/assets/57408487/98cfbca3-32c4-4ea8-84ed-4ce44919535f)
 
+![RollingTheDice](https://github.com/Asavei16/Rolling-The-Dice/assets/57408487/3a0c57ef-2bb1-4fee-b7c1-2d65433ac6f0)
 
 ## Link: https://prj3-rollingthedice.netlify.app/
